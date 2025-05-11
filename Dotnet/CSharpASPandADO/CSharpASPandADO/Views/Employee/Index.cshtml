@@ -1,0 +1,49 @@
+﻿@model CSharpASPandADO.Models.Employee
+
+@{
+    ViewData["Title"] = "Add Employee";
+}
+
+<h2>Add Employee</h2>
+
+<!-- Display validation summary -->
+@Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+<form asp-action="Index" method="post">
+    <div>
+        <label asp-for="EmpNo"></label>
+        <input asp-for="EmpNo" class="form-control" />
+        <span asp-validation-for="EmpNo" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="EmpName"></label>
+        <input asp-for="EmpName" class="form-control" />
+        <span asp-validation-for="EmpName" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="EmpDesignation"></label>
+        <input asp-for="EmpDesignation" class="form-control" />
+        <span asp-validation-for="EmpDesignation" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="EmpSalary"></label>
+        <input asp-for="EmpSalary" class="form-control" />
+        <span asp-validation-for="EmpSalary" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-2">Add Employee</button>
+</form>
+<br />
+<a asp-action="EmployeeInformation" class="btn btn-info">View All Employees</a>
+<!-- Success message -->
+@if (ViewBag.Message != null)
+{
+<p class="text-success mt-3">@ViewBag.Message</p>
+}
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

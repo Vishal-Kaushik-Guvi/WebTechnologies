@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Controllers\\EmployeeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpASPandADO\\Controllers\\EmployeeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpASPandADO\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Controllers\\EmployeeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpASPandADO\\Controllers\\EmployeeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Views\\Employee\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpASPandADO\\Views\\Employee\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Models\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpASPandADO\\Models\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\DatabaseConnectivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpASPandADO\\DatabaseConnectivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpASPandADO\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Views\\Employee\\UpdateEmployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpASPandADO\\Views\\Employee\\UpdateEmployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Views\\Employee\\EmployeeInformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpASPandADO\\Views\\Employee\\EmployeeInformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Models\\ErrorViewModel.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpASPandADO\\Models\\ErrorViewModel.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpASPandADO\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\CSharpASPandADO.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpASPandADO\\CSharpASPandADO.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpASPandADO\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseConnectivity.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\DatabaseConnectivity.cs",
+              "RelativeDocumentMoniker": "CSharpASPandADO\\DatabaseConnectivity.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\DatabaseConnectivity.cs",
+              "RelativeToolTip": "CSharpASPandADO\\DatabaseConnectivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:09:08.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CSharpASPandADO\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CSharpASPandADO\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:38:20.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Controllers\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "CSharpASPandADO\\Controllers\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Controllers\\EmployeeService.cs",
+              "RelativeToolTip": "CSharpASPandADO\\Controllers\\EmployeeService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowD0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:59:41.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpASPandADO\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Program.cs",
+              "RelativeToolTip": "CSharpASPandADO\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:41:03.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CSharpASPandADO\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Models\\Employee.cs",
+              "RelativeToolTip": "CSharpASPandADO\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:57:20.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "CSharpASPandADO\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "CSharpASPandADO\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T10:39:06.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CSharpASPandADO\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CSharpASPandADO\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:37:18.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Views\\Employee\\UpdateEmployee.cshtml",
+              "RelativeDocumentMoniker": "CSharpASPandADO\\Views\\Employee\\UpdateEmployee.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Views\\Employee\\UpdateEmployee.cshtml",
+              "RelativeToolTip": "CSharpASPandADO\\Views\\Employee\\UpdateEmployee.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T07:54:33.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeInformation.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Views\\Employee\\EmployeeInformation.cshtml",
+              "RelativeDocumentMoniker": "CSharpASPandADO\\Views\\Employee\\EmployeeInformation.cshtml",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Views\\Employee\\EmployeeInformation.cshtml",
+              "RelativeToolTip": "CSharpASPandADO\\Views\\Employee\\EmployeeInformation.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T07:03:46.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CSharpASPandADO\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CSharpASPandADO\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:29:15.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CSharpASPandADO.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\CSharpASPandADO.csproj",
+              "RelativeDocumentMoniker": "CSharpASPandADO\\CSharpASPandADO.csproj",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\CSharpASPandADO.csproj",
+              "RelativeToolTip": "CSharpASPandADO\\CSharpASPandADO.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T08:04:46.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\appsettings.json",
+              "RelativeDocumentMoniker": "CSharpASPandADO\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\appsettings.json",
+              "RelativeToolTip": "CSharpASPandADO\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T10:40:30.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CSharpASPandADO\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Desktop\\CSharpASPandADO\\CSharpASPandADO\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CSharpASPandADO\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvyEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T16:34:51.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

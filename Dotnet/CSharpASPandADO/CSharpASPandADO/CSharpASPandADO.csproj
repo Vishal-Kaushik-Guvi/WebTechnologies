@@ -1,0 +1,57 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RuntimeIdentifiers>win-x64</RuntimeIdentifiers>
+    <ContainerRuntimeIdentifier>win-x64</ContainerRuntimeIdentifier>
+    <EnableSdkContainerDebugging>True</EnableSdkContainerDebugging>
+    <ContainerBaseImage>mcr.microsoft.com/dotnet/aspnet:8.0-nanoserver-1809</ContainerBaseImage>
+    <UserSecretsId>0985fb0e-afdb-44a4-acb2-2e8b4819ca80</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0\CSharpASPandADO.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0\CSharpASPandADO.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net8.0\CSharpASPandADO.RazorAssemblyInfo.cs" />
+  </ItemGroup>
+	
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="9.3.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ContainerPort Include="8081" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="obj\CSharpASPandADO.csproj.nuget.dgspec.json" />
+    <Content Include="obj\Debug\net8.0\CSharpASPandADO.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net8.0\staticwebassets.removed.txt" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="obj\CSharpASPandADO.csproj.nuget.g.props" />
+    <None Include="obj\CSharpASPandADO.csproj.nuget.g.targets" />
+    <None Include="obj\Debug\net8.0\CSharpASPandADO.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net8.0\CSharpASPandADO.assets.cache" />
+    <None Include="obj\Debug\net8.0\CSharpASPandADO.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net8.0\CSharpASPandADO.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net8.0\CSharpASPandADO.MvcApplicationPartsAssemblyInfo.cache" />
+    <None Include="obj\Debug\net8.0\CSharpASPandADO.RazorAssemblyInfo.cache" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net8.0\" />
+    <Folder Include="obj\Debug\net8.0\refint\" />
+    <Folder Include="obj\Debug\net8.0\ref\" />
+    <Folder Include="obj\Debug\net8.0\staticwebassets\" />
+  </ItemGroup>
+
+</Project>
